@@ -1,2 +1,4 @@
 # Virtuality
-An Open-CV Virtual Reality Experiment
+
+ ![alt-tag](https://raw.githubusercontent.com/ScrypticLabs/Virtuality/master/imgs/sample.png)
+
